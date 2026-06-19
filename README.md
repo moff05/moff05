@@ -1,11 +1,11 @@
-### Hi, I'm Nicholas 👋
+### Hi, I am Nicholas
 
-Builder of AI-powered tools at the intersection of real estate and automation.
+I build AI-powered tools — mostly for real estate and productivity.
 
-**Currently building:**
-- [StackingPlanner](https://stackingplanner.com) — AI-assisted stacking plan generator for CRE
-- [scholairly](https://scholairly.com) — AI learning platform, 100+ users
+**Projects:**
+- [StackingPlanner](https://stackingplanner.com) — AI-assisted stacking plan generator for commercial real estate
+- [career-dashboard](https://github.com/moff05/career-dashboard) — Personal AI job search command center built with Next.js and Claude
 
-**Currently:** Investment Intern @ Goldenrod Companies, building AI workflows on n8n + Claude
+**Currently:** Investment Intern @ Goldenrod Companies, building internal AI workflows on n8n + Claude
 
-📍 Atlanta / Miami &nbsp;|&nbsp; 🎓 University of Miami '27
+University of Miami '27 &nbsp;|&nbsp; Atlanta / Miami
