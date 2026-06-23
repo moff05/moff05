@@ -1,4 +1,4 @@
-### Hi, I am Nicholas
+### Hi, I'm Nic!
 
 I build AI-powered tools — mostly for real estate, careers, and personal finance.
 
