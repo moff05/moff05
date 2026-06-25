@@ -12,4 +12,8 @@ I build AI-powered tools — mostly for real estate, careers, and personal finan
 
 **Currently:** Investment Intern @ Goldenrod Companies, building internal AI workflows on n8n + Claude
 
-University of Miami '27 &nbsp;|&nbsp; Atlanta / Miami
+University of Miami '27  |  Atlanta / Miami
+
+---
+
+<img src="https://media1.giphy.com/media/m8Z2UqDYU20SY/giphy.gif" width="80" />  <img src="https://media3.giphy.com/media/qYHlTos5CDu0/giphy.gif" width="80" />
