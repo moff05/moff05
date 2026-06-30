@@ -2,7 +2,7 @@
 
 I build AI-powered tools — mostly for real estate, careers, and personal finance.
 
-**Portfolio:** [moff05.github.io](https://moff05.github.io)
+**Portfolio:** [nmoffett.com](https://nmoffett.com)
 
 **Projects:**
 - [StackingPlanner](https://stackingplanner.com) — AI-assisted stacking plan generator for commercial real estate
@@ -12,4 +12,4 @@ I build AI-powered tools — mostly for real estate, careers, and personal finan
 
 **Currently:** Investment Intern @ Goldenrod Companies, building internal AI workflows on n8n + Claude
 
-University of Miami '27  |  Atlanta / Miami
+University of Miami '27  |  Atlanta / Miami
