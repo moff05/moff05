@@ -14,7 +14,7 @@ I build AI-powered tools — mostly for real estate, careers, and personal finan
 | [Career Dashboard](https://career-dashboard-ten.vercel.app) | AI job tracker: import a posting for a fit score, plus a coach that knows your background — [code](https://github.com/moff05/career-dashboard) |
 | [StockStarter](https://stockstarter-production.up.railway.app) | Self-hosted stock portfolio tracker — your holdings never leave the browser — [code](https://github.com/moff05/stockstarter) |
 | [World Cup Kits](https://world-cup-kits-xi.vercel.app) | Every nation's World Cup history, built on an autonomous AI research pipeline — [code](https://github.com/moff05/world-cup-kits) |
-| [scholairly](https://scholairly.com) | AI-powered EdTech platform — co-founded at N&S Digital |
+| [Scholairly](https://scholairly.com) | AI-powered EdTech platform — co-founded at N&S Digital |
 | [Signal](https://signal-drab-omega.vercel.app) | Personal capture tool: iPhone PWA + Scriptable widget, auto-escalating urgency — [code](https://github.com/moff05/signal) |
 
 #### In progress
