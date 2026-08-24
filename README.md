@@ -15,7 +15,7 @@ I build AI-powered tools — mostly for real estate, careers, and personal finan
 | [StockStarter](https://stockstarter-production.up.railway.app) | Self-hosted stock portfolio tracker — your holdings never leave the browser — [code](https://github.com/moff05/stockstarter) |
 | [World Cup Kits](https://world-cup-kits-xi.vercel.app) | Every nation's World Cup history, built on an autonomous AI research pipeline — [code](https://github.com/moff05/world-cup-kits) |
 | [Scholairly](https://scholairly.com) | AI-powered EdTech platform — co-founded at N&S Digital |
-| Signal | Personal capture tool: iPhone PWA + Scriptable widget, auto-escalating urgency — local-only, private repo |
+| Signal | Personal capture tool: iPhone PWA + Scriptable widget, auto-escalating urgency — local-only, [code + self-host guide](https://github.com/moff05/signal) |
 
 #### In progress
 
